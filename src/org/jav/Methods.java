@@ -25,7 +25,8 @@ public class Methods {
 	}
 	
 	public static void getdata2() {
-		System.out.println("Selenium");
+		System.out.println("Selenium"); 
+		//if we declare static method it assign to class level, no need to create object.
 	}
 
 }
